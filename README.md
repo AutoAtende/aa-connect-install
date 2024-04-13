@@ -1,6 +1,5 @@
 <h1 align="center">Whaticket Baileys |ConnectGestor</h1>
 
-<div align="center">
 
 
 
