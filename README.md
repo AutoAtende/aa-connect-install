@@ -1,21 +1,15 @@
-<h1 align="center">Whaticket Baileys |ConnectGestor</h1>
-
-
-
-
-
+<h1 align="center">AutoAtende PRO</h1>
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/ConnectGestor/app-install.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/AutoAtende/aa-connect-install.git install && sudo chmod -R 777 ./install && cd ./install && sudo ./install_primaria
 ```
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
-
 
 ## Para Instalação você precisa:
 
